@@ -1,5 +1,8 @@
 ### The name of an element inside a tag is case insensitive. 
 HTML 元素是大小写不敏感的
+
+### Title
+
 the ```<title> ``` tag can be written as ```<Title>``` , ```<TITLE>``` , or in any other way. 
 
 a element: ==The opening tag==, ==the closing tag==, and ==the content== together comprise the element.
@@ -28,6 +31,8 @@ Title tags are a very important part of ==on-page search engine optimization==,T
 
 社交媒体中作为分享出来的标题
 
+---
+
 # How to Write a Great HTML Title Tag
 
 1. 50-60 characters in length, including spaces.
@@ -42,6 +47,8 @@ h1标签其实就是页面的headline但是如果title和headline相同你将会
 
 写出来的标题是给人读的，仅仅为了关键词提高搜索排名，搜索引擎将会惩罚
 
+---
+
 # Create Bookmarks
 
 ```<h2 id="C4">Chapter 4</h2>```
@@ -53,8 +60,12 @@ h1标签其实就是页面的headline但是如果title和headline相同你将会
  但连接另一个页面的时候你需要使用
  ```<a href="html_demo.html#C4">Jump to Chapter 4</a>```
 
+---
+### img alt
 
 alt的使用添加对图片的描述，举例Firefox logo，"The Firefox logo: a flaming fox surrounding the Earth."
+
+### h
 
 h标签，最多使用3-4个就可以了，他们是用来可访问性或者SEO的，used for accessibility and other reasons such as SEO
 
